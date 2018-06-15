@@ -1,0 +1,14 @@
+{
+    "options": {},
+    "indexes": [
+        {
+            "v": 2,
+            "key": {
+                "_id": 1
+            },
+            "name": "_id_",
+            "ns": "video.moviesScratch"
+        }
+    ],
+    "uuid": "01469bf73ad04e46bef7b7702bae3ee5"
+}
